@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - NEW DELHI  || 28 Jul 2021 | 11:35:34 AM
+ ------------------------------------------------------------- 
+Current temperature is: 26.09 deg C
+Current weather desc  :,drizzle 
+Current Humidity      :,100,% 
+Current wind speed    :,2.57,kmph 
+====================================================
